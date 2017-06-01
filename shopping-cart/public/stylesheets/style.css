@@ -1,0 +1,15 @@
+.thumbnail img{
+    max-height: 4000px;
+    max-width: 340px;
+    min-height: 160px;
+}
+.body{
+    margin:10px;
+}
+.thumbnail.description{
+    color:#64ff36;
+}
+.price{
+    font-weight: bold;
+    font-size: 16px;
+}
